@@ -428,7 +428,7 @@ body::after {
 
 .guildIconUnavailable-3IYARS,								/* guilderror			miniicon							*/
 .guildsError-11GiUv {										/* guilderror			innerwrap							*/
-	background-color: rgba(var(--dangercolor)), .3);
+	background-color: rgba(var(--dangercolor)),.3);
 }
 
 .dragInner-Oq_toX {											/* dragplaceholder											*/
@@ -6414,7 +6414,7 @@ html .bd-toast.toast-warn.icon::before {
 }
 .bd-select .bd-select-option.selected {
 	background-color: rgba(var(--transparencycolor), .3);
-    color: var(--interactive-active);
+	color: var(--interactive-active);
 }
 
 .bd-pfbtn {													/* addonlist			folder button						*/
@@ -7113,7 +7113,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E >
 	animation: unset !important;
 }
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E > div.app-2rEoOp > div.layers-3iHuyZ.layers-3q14ss > div.layer-3QrUeG.baseLayer-35bLyl + div.layer-3QrUeG > div.standardSidebarView-3F1I7i > div.sidebarRegion-VFTUkN > div.sidebarRegionScroller-3MXcoP.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 > nav.sidebar-CFHs9e > div.side-8zPYf6 > div.info-1VyQPT::before {
-	content: "AndreP2211" !important;
+	content: "AP" !important;
 	font-size: 12px !important;
 	color: rgb(var(--accentcolor)) !important;
 	display: inline !important;
